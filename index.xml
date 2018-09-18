@@ -6,9 +6,19 @@
     <description>Recent content on zloop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 14:09:21 +0800</lastBuildDate>
     
 	<atom:link href="http://zloop.top/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://zloop.top/about/</link>
+      <pubDate>Tue, 18 Sep 2018 14:09:21 +0800</pubDate>
+      
+      <guid>http://zloop.top/about/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
